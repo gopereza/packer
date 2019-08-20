@@ -1,5 +1,10 @@
 # Packer for split by ranges
 
+### Dep
+```bash
+dep ensure -add github.com/gopereza/packer
+```
+
 ### Use for batch operations
 
 ```golang
