@@ -1,4 +1,4 @@
-# Packer for split by ranges
+# Packer for split by ranges [![Build Status](https://travis-ci.org/gopereza/packer.svg?branch=master)](https://travis-ci.org/gopereza/packer)
 
 ### Dep
 ```bash
