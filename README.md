@@ -7,7 +7,7 @@ dep ensure -add github.com/gopereza/packer
 
 ### Use for batch operations
 
-```golang
+```go
 	assert.Equal(t, []Range{{0, 100}}, Pack(100, 200))
 	assert.Equal(t, []Range{{0, 100}}, Pack(100, 500))
 
@@ -17,7 +17,7 @@ dep ensure -add github.com/gopereza/packer
 ```
 
 ### Example
-```golang
+```go
 package main
 
 import "github.com/gopereza/packer"
